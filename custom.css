@@ -1,13 +1,13 @@
 .controller.ds4 {
-  background: url(gamepadviewer/ps4-custom-assets/base.png);
+  background: url(ps4-custom-assets/base.png);
 }
 
 .ds4 .stick {
-  background: url(gamepadviewer/ps4-custom-assets/sticks.png);
+  background: url(ps4-custom-assets/sticks.png);
 }
 
 .ds4 .face {
-  background: url(gamepadviewer/ps4-custom-assets/dpad.png);
+  background: url(ps4-custom-assets/dpad.png);
   position: absolute;
 }
 
