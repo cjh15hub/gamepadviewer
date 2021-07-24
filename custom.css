@@ -1,0 +1,55 @@
+.controller.ds4 {
+  background: url(ps4-custom-assets/base.png);
+}
+
+.ds4 .stick {
+  background: url(ps4-custom-assets/sticks.png);
+}
+
+.ds4 .face {
+  background: url(ps4-custom-assets/dpad.png);
+  position: absolute;
+}
+
+/* .ds4.disconnected {
+  background: url(ps4-custom-assets/disconnected.svgz);
+} */
+
+/* .ds4 .trigger {
+  background: url(ps4-custom-assets/triggers.svgz);
+  opacity: 0;
+} */
+
+/* .ds4 .bumper {
+  background: url(ps4-custom-assets/bumper.svgz) no-repeat;
+  opacity: 0;
+} */
+
+/* .ds4 .bumper.pressed {
+  opacity: 1;
+} */
+
+/* .ds4 .touchpad.pressed {
+  background: url(ps4-custom-assets/touchpad.svgz) no-repeat center;
+} */
+
+/* .ds4 .meta.pressed {
+  background: url(ps4-custom-assets/meta.svgz) no-repeat center;
+} */
+
+/* .ds4 .back, .ds4 .start {
+  background: url(ps4-custom-assets/start.svgz);
+  opacity: 0;
+} */
+
+/* .ds4 .back.pressed, .ds4 .start.pressed { */
+  /* background-position-y: -21px; */
+  /* margin-top: 2px; */
+  /* opacity: 1;
+} */
+
+/* .ds4 .button {
+  background: url(ps4-custom-assets/face.svgz);
+} */
+
+
