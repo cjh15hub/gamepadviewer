@@ -25,11 +25,11 @@ With the copied URL
 Branch repo and edit
 - This repo demonstrates the usage of the PS4 assets
 - To create your own
-  - update the assets to your liking. I have provided converted and cleaned up PSD's and the output PNG's as well as the original white PS4 SVGZ's
-  - update the css background url's
-  - host your files in a new location
-  - update your Edit CSS URL on gamepadviewer to the location of your hosted custom.css file
-  - refresh browser and/ or browser source if necessary
+  - Update the assets to your liking. I have provided converted and cleaned up PSD's and the output PNG's as well as the original white PS4 SVGZ's
+  - Update the css background url's
+  - Host your files in a new location
+  - Update your Edit CSS URL on gamepadviewer to the location of your hosted custom.css file
+  - Refresh browser and/ or browser source if necessary
 - Other Assets can be added for the other controller types!
   - Add new assets and update the custom.css file to include overrides for the backgrounds
   - Existing assets can be used as starting point, these can be found the in [sources tab](https://developer.chrome.com/docs/devtools/javascript/sources/) under a folder named the controller type / skin
